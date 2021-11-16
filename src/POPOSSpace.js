@@ -15,6 +15,7 @@ function POPOSSpace(props) {
       />
       <h1>{name}</h1>
       <div>{address}</div>
+
     </div>
   )
 }

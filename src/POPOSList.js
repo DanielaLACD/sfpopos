@@ -1,5 +1,6 @@
 import POPOSSpace from './POPOSSpace';
 import React from 'react';
+import './POPOSList.css';
 
 function POPOSList() {
   return (
@@ -10,40 +11,45 @@ function POPOSList() {
       image="50-california-st.jpg"
     />
     <POPOSSpace
-    name="name"
+    name="100 Pine Street"
     address="address"
     />
     <POPOSSpace
-    name="name"
+    name="101 California Street"
     address="adress"
     />
     <POPOSSpace
-    name="name"
+    name="343 Sansome Roof Garden"
     address="address"
     />
     <POPOSSpace
-    name="name"
+    name="525 Market Street Plaza"
     address="address"
     />
     <POPOSSpace
-    name="name"
-    address="address"/>
-    <POPOSSpace
-    name="name"
+    name="555 California"
     address="address"
     />
     <POPOSSpace
-    name="name"
+    name="Citigroup Center"
     address="address"
     />
     <POPOSSpace
-    name="name"
+    name="Embarcadero Center"
     address="address"
     />
     <POPOSSpace
-    name="name"
+    name="Empire Park"
     address="address"
-    />  
+    />
+    <POPOSSpace
+    name="Garden Terrace"
+    address="address"
+    />
+    <POPOSSpace
+    name="Transamerica Redwood Park"
+    address="add"
+    />
     </div>
   )
 }
