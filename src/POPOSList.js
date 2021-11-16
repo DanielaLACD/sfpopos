@@ -9,66 +9,41 @@ function POPOSList() {
       address="50 California St."
       image="50-california-st.jpg"
     />
-
     <POPOSSpace
-      name="100 Pine"
-      address="100 Pine"
-      image="100-pine.jpg"
+    name="name"
+    address="address"
     />
-
     <POPOSSpace
-      name="101 California"
-      adress="101 California"
-      image="101-california.jpg"
+    name="name"
+    address="adress"
     />
-
     <POPOSSpace
-      name="343 Sansome Roof Garden"
-      address="343 Sansome Roof Garden"
-      image="343-sansome-roof-garden.jpg"
+    name="name"
+    address="address"
     />
-
     <POPOSSpace
-      name="525 Market Street Plaza"
-      address="525 Market Street Plaza"
-      image="525-market-street-plaza.jpg"
+    name="name"
+    address="address"
     />
-
     <POPOSSpace
-      name="555 California"
-      address="555 California"
-      image="555-califonia.jpg"
-    />
-
+    name="name"
+    address="address"/>
     <POPOSSpace
-      name="Citigroup Center"
-      address="Citigroup Centger"
-      image="citigroup-center.jpg"
+    name="name"
+    address="address"
     />
-
     <POPOSSpace
-      name="Embarcadero Center"
-      address="Embarcadero Center"
-      image="embarcadero-center.jpg"
+    name="name"
+    address="address"
     />
-
     <POPOSSpace
-      name="Empire Park"
-      address="Empire Park"
-      imnage="empire-park.jpg"
+    name="name"
+    address="address"
     />
-
     <POPOSSpace
-      name="Garden Terrace"
-      address="Garden Terrace at 150 California"
-      image="garden-terrace-at-150-california.jpg"
-    />
-
-    <POPOSSpace
-      name="Transamerica Redwood Park"
-      address="Transamerica Redwood Park"
-      image="transamerica-redwood-park.jpg"
-    />
+    name="name"
+    address="address"
+    />  
     </div>
   )
 }
