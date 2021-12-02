@@ -1,6 +1,7 @@
 import React from 'react'
 import './Title.css';
 import { NavLink } from 'react-router-dom'
+import RandomSpace from 'RandomSpace.js'
 
 
 function Title() {

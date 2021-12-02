@@ -1,7 +1,4 @@
-// src/POPOSSpace.js
-
 import React from 'react'
-import Logo from './logo.svg'
 import './POPOSSpace.css'
 import { Link } from 'react-router-dom'
 
