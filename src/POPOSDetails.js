@@ -5,7 +5,7 @@ import './POPOSDetails.css'
 
 function POPOSDetails(props) {
   const params = useParams()
-  const { id } = params // Location index
+  const { id } = params
   const { images, title, desc, hours, features, geo } = data[id]
 
   return (
