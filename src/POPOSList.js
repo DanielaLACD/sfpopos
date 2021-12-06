@@ -6,9 +6,10 @@
 
   function POPOSList() {
     const [ query, setQuery ] = useState('')
-    const spaces = data.filter(({ features, title, address }) => {
-    	}).map((obj) => {
-    			const { id, title, address, images, hours, features } = obj
+    const spaces = data
+    .filter(obj => obj.title.includes(query) || obj.address.includes(query))
+  .map(({ title, address, images, hours }, id) => {
+
     		return (
     			<POPOSSpace
     				id={id}

@@ -1,0 +1,12 @@
+.footer{
+  color: white;
+}
+
+.footer{
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: rgb(192, 45, 26);
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
